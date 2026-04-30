@@ -5,7 +5,9 @@ EduTrack is a Java Swing-based desktop application designed to simplify student 
 It provides an intuitive GUI where teachers can manage academic data, and students can track their performance.
 
 ✨ Features
+
 👩‍🏫 Teacher Panel
+
 ➕ Add & manage students
 
 📅 Update attendance
@@ -15,6 +17,7 @@ It provides an intuitive GUI where teachers can manage academic data, and studen
 📢 Manage academic events
 
 👨‍🎓 Student Panel
+
 👤 View profile
 
 📊 Check attendance percentage
@@ -24,6 +27,7 @@ It provides an intuitive GUI where teachers can manage academic data, and studen
 🔔 Get alerts for low attendance
 
 ⚙️ System Features
+
 🔐 Secure login system
 
 ⚠️ Automatic alert (<75% attendance)
@@ -41,10 +45,10 @@ Layer	Technology
 
 📸 Screenshots
 
-Markdown
-
-![Login](im/login.png)
-![Dashboard](images/dashboard.png)
+![Login](images/login.png)
+![admin Dashboard](images/dashboard.png)
+![teacher Dashboard](images/student.png)
+![student Dashboard](images/teacherdashboard.png)
 ⚙️ Installation & Setup
 1️⃣ Clone Repository
 Bash
@@ -64,10 +68,12 @@ Run LoginFrame.java
 🔄 Workflow
 
 Login → Role Selection → Dashboard → Manage Data → View Results
+
 🎯 Objective
 To provide a centralized system for managing student records, attendance, and academic performance efficiently.
 
 🚀 Future Enhancements
+
 🌐 Cloud database integration (Firebase/AWS)
 
 📱 Mobile application
@@ -77,6 +83,7 @@ To provide a centralized system for managing student records, attendance, and ac
 👨‍💼 Admin panel
 
 📚 Concepts Used
+
 OOP (Object-Oriented Programming)
 
 GUI Development (Java Swing)
@@ -98,11 +105,14 @@ File Handling
 ✔ Clean structure & modular design
 
 🙌 Contribution
+
 Feel free to fork this repo and contribute 🚀
 
 📄 License
+
 This project is for educational purposes.
 
 👩‍💻 Author
+
 Khushi
 🎓 B.Tech CSE (Cloud Computing)
