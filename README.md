@@ -45,7 +45,7 @@ Layer	Technology
 
 📸 Screenshots
 
-![Login](images/login.png)
+![login](images/login.png)
 ![admin Dashboard](images/dashboard.png)
 ![teacher Dashboard](images/student.png)
 ![student Dashboard](images/teacherdashboard.png)
